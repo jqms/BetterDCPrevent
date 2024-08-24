@@ -1,14 +1,14 @@
-
 ---
 
 # BetterDCPrevent
 
 BetterDCPrevent is an improved alternative to the mainstream DC Prevent. It removes the need for an extra DLL, adds new features, and is fully open source.
-     
+
 ## ✨ Features
 - **Customizable Mouse Debounce:** Set individual debounce limits for left and right mouse buttons.
 - **Link Debounce Limits:** Option to link the left and right debounce limits for synchronized settings.
 - **Lock Debounce Settings:** Lock your debounce settings until the app is restarted, perfect for scrims.
+- **Only Apply to Minecraft Window:** Option to apply debounce settings only when the Minecraft window is focused, ensuring debounce effects are limited to Minecraft.
 - **Persistent Configuration:** Your settings are saved and retained across restarts.
 - **Detailed Logging:**
   - Logs opening times to ensure maximum trust.
@@ -39,4 +39,4 @@ This project is licensed under the [MIT License](LICENSE).
 - **Created by:** [jqms](https://github.com/jqms)
 - **Icon designed by:** [miniguy7](https://github.com/miniguy7)
 
---- 
+---
